@@ -1,0 +1,342 @@
+@font-face {
+  font-family: "toteatapp";
+  src: url("fonts/ToteatApp.eot?aagtuca2");
+  src: url("fonts/ToteatApp.eot?aagtuca2#iefix") format("embedded-opentype"),
+    url("fonts/ToteatApp.ttf?aagtuca2") format("truetype"),
+    url("fonts/ToteatApp.woff?aagtuca2") format("woff"),
+    url("fonts/ToteatApp.svg?aagtuca2#toteatapp") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="appicon-"],
+[class*=" appicon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "toteatapp" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.appicon-id_toteat_icon:before {
+  content: "\e942";
+}
+.appicon-star_toteat_icon:before {
+  content: "\e943";
+}
+.appicon-eco_toteat_icon:before {
+  content: "\e93e";
+}
+.appicon-inicio_toteat_icon:before {
+  content: "\e93f";
+}
+.appicon-isotot1_toteat_icon:before {
+  content: "\e940";
+}
+.appicon-isotot2_toteat_icon:before {
+  content: "\e941";
+}
+.appicon-mail_toteat_icon:before {
+  content: "\e900";
+}
+.appicon-order2_toteat_icon:before {
+  content: "\e901";
+}
+.appicon-peso_toteat_icon:before {
+  content: "\e902";
+}
+.appicon-peso2_toteat_icon:before {
+  content: "\e903";
+}
+.appicon-Reserve2_toteat_icon:before {
+  content: "\e904";
+}
+.appicon-ring_toteat_icon:before {
+  content: "\e905";
+}
+.appicon-table_toteat_icon:before {
+  content: "\e906";
+}
+.appicon-_toteat_icon:before {
+  content: "\e907";
+}
+.appicon-_toteat_icon1:before {
+  content: "\e908";
+}
+.appicon-arrow_toteat_icon:before {
+  content: "\e909";
+}
+.appicon-attach_toteat_icon:before {
+  content: "\e90a";
+}
+.appicon-card_toteat_icon:before {
+  content: "\e90b";
+}
+.appicon-cart_toteat_icon:before {
+  content: "\e90c";
+}
+.appicon-check_toteat_icon:before {
+  content: "\e90d";
+}
+.appicon-checkin_toteat_icon:before {
+  content: "\e90e";
+}
+.appicon-checkout_toteat_icon:before {
+  content: "\e90f";
+}
+.appicon-clock2_toteat_icon:before {
+  content: "\e910";
+}
+.appicon-close_toteat_icon:before {
+  content: "\e911";
+}
+.appicon-comments_toteat_icon:before {
+  content: "\e912";
+}
+.appicon-delivery_toteat_icon:before {
+  content: "\e913";
+}
+.appicon-dislike_toteat_icon:before {
+  content: "\e914";
+}
+.appicon-dont_toteat_icon:before {
+  content: "\e915";
+}
+.appicon-down_toteat_icon:before {
+  content: "\e916";
+}
+.appicon-Edit_toteat_icon:before {
+  content: "\e917";
+}
+.appicon-erase_toteat_icon:before {
+  content: "\e918";
+}
+.appicon-FF_toteat_icon:before {
+  content: "\e919";
+}
+.appicon-filter_toteat_icon:before {
+  content: "\e91a";
+}
+.appicon-home_toteat_icon:before {
+  content: "\e91b";
+}
+.appicon-ig_toteat_icon:before {
+  content: "\e91c";
+}
+.appicon-info_toteat_icon:before {
+  content: "\e91d";
+}
+.appicon-key_toteat_icon:before {
+  content: "\e91e";
+}
+.appicon-left_toteat_icon:before {
+  content: "\e91f";
+}
+.appicon-like_toteat_icon:before {
+  content: "\e920";
+}
+.appicon-location_toteat_icon:before {
+  content: "\e921";
+}
+.appicon-locked_toteat_icon:before {
+  content: "\e922";
+}
+.appicon-menu_toteat_icon:before {
+  content: "\e923";
+}
+.appicon-minus_toteat_icon:before {
+  content: "\e924";
+}
+.appicon-note_toteat_icon:before {
+  content: "\e925";
+}
+.appicon-order_toteat_icon:before {
+  content: "\e926";
+}
+.appicon-phone_toteat_icon:before {
+  content: "\e927";
+}
+.appicon-picture_toteat_icon:before {
+  content: "\e928";
+}
+.appicon-plus_toteat_icon:before {
+  content: "\e929";
+}
+.appicon-promo_toteat_icon:before {
+  content: "\e92a";
+}
+.appicon-qr_toteat_icon:before {
+  content: "\e92b";
+}
+.appicon-refresh_toteat_icon:before {
+  content: "\e92c";
+}
+.appicon-reserve_toteat_icon:before {
+  content: "\e92d";
+}
+.appicon-save_toteat_icon:before {
+  content: "\e92e";
+}
+.appicon-search_toteat_icon:before {
+  content: "\e92f";
+}
+.appicon-settings_toteat_icon:before {
+  content: "\e930";
+}
+.appicon-share_toteat_icon:before {
+  content: "\e931";
+}
+.appicon-takeout_toteat_icon:before {
+  content: "\e932";
+}
+.appicon-unlock_toteat_icon:before {
+  content: "\e933";
+}
+.appicon-up_toteat_icon:before {
+  content: "\e934";
+}
+.appicon-user_toteat_icon:before {
+  content: "\e935";
+}
+.appicon-warning_toteat_icon:before {
+  content: "\e936";
+}
+.appicon-web_toteat_icon:before {
+  content: "\e937";
+}
+.appicon-whatsapp2_toteat_icon:before {
+  content: "\e938";
+}
+.appicon-euro_toteat_icon:before {
+  content: "\e939";
+}
+.appicon-euro2_toteat_icon:before {
+  content: "\e93a";
+}
+.appicon-toteat_toteat_icon:before {
+  content: "\e93b";
+}
+.appicon-toteatapp_toteat_icon:before {
+  content: "\e93c";
+}
+.appicon-twitter_toteat_icon:before {
+  content: "\e93d";
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url(fonts/Roboto/Roboto-Thin.ttf);
+  font-weight: 100;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url(fonts/Roboto/Roboto-Light.ttf);
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url(fonts/Roboto/Roboto-Regular.ttf);
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Roboto";
+  font-weight: 500;
+  src: url(fonts/Roboto/Roboto-Medium.ttf);
+  font-display: swap;
+}
+@font-face {
+  font-family: "Roboto";
+  font-weight: 700;
+  src: url(fonts/Roboto/Roboto-Bold.ttf);
+  font-display: swap;
+}
+@font-face {
+  font-family: "Roboto";
+  font-weight: 900;
+  src: url(fonts/Roboto/Roboto-Black.ttf);
+  font-display: swap;
+}
+@font-face {
+  font-family: "Barlow";
+  font-weight: 400;
+  src: url(./fonts/Barlow/Barlow-Regular.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Barlow";
+  font-weight: 500;
+  src: url(./fonts/Barlow/Barlow-Medium.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Barlow";
+  font-weight: 600;
+  src: url(./fonts/Barlow/Barlow-SemiBold.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Barlow";
+  font-weight: 700;
+  src: url(./fonts/Barlow/Barlow-Bold.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Barlow";
+  font-weight: 800;
+  src: url(./fonts/Barlow/Barlow-ExtraBold.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Barlow";
+  font-weight: 900;
+  src: url(./fonts/Barlow/Barlow-Black.ttf) format("truetype");
+}
+/*
+
+@font-face {
+        font-family: "Roboto Light" ;
+        font-weight:normal;
+        src: url(fonts/Roboto/Roboto-Light.ttf);
+}
+@font-face {
+        font-family: "Roboto Light" ;
+        font-weight: bold;
+        src: url(fonts/Roboto/Roboto-Regular.ttf);
+}
+@font-face {
+        font-family: "Roboto Light" ;
+        font-weight: 900;
+        src: url(fonts/Roboto/Roboto-Medium.ttf);
+}
+
+@font-face {
+        font-family: "Roboto Black" ;
+        src: url(fonts/Roboto/Roboto-Black.ttf);
+}
+
+@font-face {
+        font-family: "Roboto Condensed Black" ;
+        src: url(fonts/Roboto/RobotoCondensed-Bold.ttf);
+        font-display: swap;
+}
+@font-face {
+        font-family: "Roboto Condensed Light" ;
+        src: url(fonts/Roboto/RobotoCondensed-Light.ttf);
+        font-display: swap;
+}
+@font-face {
+        font-family: "Roboto Condensed" ;
+        src: url(fonts/Roboto/RobotoCondensed-Regular.ttf);
+        font-display: swap;
+}
+@font-face {
+        font-family: "Roboto Condensed" ;
+        font-weight: bold;
+        src: url(fonts/Roboto/RobotoCondensed-Bold.ttf);
+        font-display: swap;
+} */

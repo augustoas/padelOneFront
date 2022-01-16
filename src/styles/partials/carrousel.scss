@@ -1,0 +1,51 @@
+#carrousel {
+
+    div.carrousel-container {
+        overflow: visible;
+        white-space: nowrap;
+        display: flex;
+
+    }
+
+    div.carrousel-images {
+        overflow-x: scroll;
+        min-height: 300px;
+        width: 100%;
+        
+    }
+
+    .carrousel-image {
+        background-position: 50% 5%;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 125%;
+        margin: 5px 5px 10px 5px;
+        height: 92%;
+        width: clamp(200px, 85%, 600px);
+        display: inline-block;
+
+    }
+
+    #style-scrollbar::-webkit-scrollbar
+    {
+        height: 3px;
+        width: 3px;
+    }
+
+    #style-scrollbar::-webkit-scrollbar-thumb
+    {
+        background-color: rgb(176, 170, 170); 
+        background-image: -webkit-linear-gradient(
+        45deg,
+        rgba(255, 255, 255, .2) 25%,
+        transparent 25%,
+        transparent 50%,
+        rgba(255, 255, 255, .2) 50%,
+        rgba(255, 255, 255, .2) 75%,
+        transparent 75%,
+        transparent)
+    }
+
+    
+    
+}

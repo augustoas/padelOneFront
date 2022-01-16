@@ -1,0 +1,33 @@
+{
+    "data": {
+
+        "clubImages": [
+            {
+                "id": 1,
+                "imagen": "fotoEntrada1.jpg"
+            },
+            {
+                "id": 2,
+                "imagen": "fotoEntrada2.jpg"
+            },
+            {
+                "id": 3,
+                "imagen": "fotoEntrada3.jpg"
+            }
+        ],
+         "clientsImages": [
+            {
+                "id": 1,
+                "imagen": "IMG_Jugadores1.jpg"
+            },
+            {
+                "id": 2,
+                "imagen": "IMG_Jugadores2.jpg"
+            },
+            {
+                "id": 3,
+                "imagen": "IMG_Jugadores3.jpg"
+            }
+        ]
+    } 
+}

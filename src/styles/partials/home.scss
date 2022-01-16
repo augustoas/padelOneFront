@@ -1,0 +1,54 @@
+#home {
+    //margin: 10px;
+
+    
+    width: 100%;
+    height: 100%;
+
+    .portada {
+      position: relative;
+      width: 100%;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      overflow: hidden;
+    }
+
+    .img-portada {
+
+      background-image: url("./assets/portada1.jpg");
+      background-repeat: no-repeat;
+      background-attachment: scroll;
+      background-position: center;
+      background-size: cover;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      max-height: 100vh;
+      
+
+    }
+
+    .reservar-button {
+      background-color: #1C344C;
+      height: 70px;
+      position: absolute;
+      width: 300px;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-content: center;
+      flex-direction: column;
+      box-shadow: 0px -10px 30px rgb(246 238 238 / 42%);
+      border: 0px solid;
+      border-radius: 25px;
+      font-weight: 700;
+      bottom: 120px;
+    }
+
+
+}
