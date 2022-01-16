@@ -11,7 +11,7 @@
 
 <script>
 
-console.log('iniciando App.vue');
+console.log('iniciandoo App.vue');
 
 import Topbar from "./components/globals/Topbar";
 import Sidebar from "./components/globals/Sidebar";
